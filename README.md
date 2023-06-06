@@ -1,2 +1,2 @@
-# proyecto-veterinaria
-Proyecto veterinaria
+# proyecto-hospital
+Proyecto hospital Amanda Bulla Grupo 11 A
